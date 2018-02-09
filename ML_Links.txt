@@ -1,3 +1,6 @@
 http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/
 https://medium.com/@gr33ndata/learn-regressions-analysis-23b789bf2c36
 https://www.cs.princeton.edu/sites/default/files/uploads/saahil_madge.pdf
+https://medium.com/@gr33ndata/learn-regressions-analysis-23b789bf2c36 - Regression perfect example
+Regression is good for predicting next values , Classification is for predicting which label it belongs to
+
